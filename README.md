@@ -1,4 +1,4 @@
-Entendi, obrigado por esclarecer. Vou ajustar o README.md para refletir isso:
+
 
 # TecBlog (Projeto de Portfólio)
 
